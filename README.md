@@ -32,21 +32,20 @@
 
 ### Задание 2
 
-![]()
+![1.png](https://github.com/victorialugi/12-06-hw/blob/main/1.png)
 
-![]()
+![2.png](https://github.com/victorialugi/12-06-hw/blob/main/2.png)
 
-![]()
+![3.png](https://github.com/victorialugi/12-06-hw/blob/main/3.png)
 
-![]()
+![4.png](https://github.com/victorialugi/12-06-hw/blob/main/4.png)
 
-![]()
+![5.png](https://github.com/victorialugi/12-06-hw/blob/main/5.png)
 
-![]()
+![6.png](https://github.com/victorialugi/12-06-hw/blob/main/6.png)
 
-![]()
+![7.png](https://github.com/victorialugi/12-06-hw/blob/main/7.png)
 
-![]()
+![8.png](https://github.com/victorialugi/12-06-hw/blob/main/8.png)
 
-![]()
 ---
